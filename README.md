@@ -102,12 +102,21 @@ Add your website screenshots below:
 ```html
 <table>
   <tr>
-    <td align="center">Fashion Gallery</td>
-    <td align="center">Image Viewer</td>
-  </tr>
-  <tr>
-    <td><img src="YOUR-GALLERY-SCREENSHOT-URL" width="350"></td>
-    <td><img src="YOUR-VIEWER-SCREENSHOT-URL" width="350"></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ed859faa-edf6-4570-9c5c-90c8bf3bfa67" width="100%" alt="Fashion Gallery" />
+      <br />
+      <b>Fashion Gallery</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dbdde0f7-c124-4f70-b1da-3feadec5ea5e" width="100%" alt="Image Viewer" />
+      <br />
+      <b>Image Viewer</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/88327f93-8f01-4643-bf2d-5005be8cc495" width="100%" alt="Gallery Preview" />
+      <br />
+      <b>Gallery Preview</b>
+    </td>
   </tr>
 </table>
 ```
