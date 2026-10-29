@@ -99,7 +99,7 @@ VOGUEVA/
 
 Add your website screenshots below:
 
-```html
+html
 <table>
   <tr>
     <td align="center">
@@ -119,7 +119,7 @@ Add your website screenshots below:
     </td>
   </tr>
 </table>
-```
+
 
 ---
 
