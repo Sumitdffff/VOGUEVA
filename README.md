@@ -99,25 +99,17 @@ VOGUEVA/
 
 Add your website screenshots below:
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ed859faa-edf6-4570-9c5c-90c8bf3bfa67" width="100%" alt="Fashion Gallery" />
-      <br />
-      <b>Fashion Gallery</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/dbdde0f7-c124-4f70-b1da-3feadec5ea5e" width="100%" alt="Image Viewer" />
-      <br />
-      <b>Image Viewer</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/88327f93-8f01-4643-bf2d-5005be8cc495" width="100%" alt="Gallery Preview" />
-      <br />
-      <b>Gallery Preview</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed859faa-edf6-4570-9c5c-90c8bf3bfa67" width="100%" alt="VOGUEVA Fashion Gallery" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbdde0f7-c124-4f70-b1da-3feadec5ea5e" width="100%" alt="VOGUEVA Image Viewer" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88327f93-8f01-4643-bf2d-5005be8cc495" width="100%" alt="VOGUEVA Gallery Preview" />
+</p>
 
 
 ---
