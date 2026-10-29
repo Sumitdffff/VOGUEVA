@@ -99,7 +99,6 @@ VOGUEVA/
 
 Add your website screenshots below:
 
-html
 <table>
   <tr>
     <td align="center">
